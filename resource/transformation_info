@@ -1,0 +1,11 @@
+{
+  "trans_meta":{
+    "chunk_size":10000,
+    "input_folder_path":"/home/anil/PycharmProjects/etl/generate_data/2019-10-13/655",
+    "output_folder_path":"/home/anil/PycharmProjects/etl/generate_data/2019-10-13/parsed",
+    "date_format": "dd/mm/yyyy"
+  },
+  "trans_info":{
+  }
+
+}
